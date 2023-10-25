@@ -1,4 +1,7 @@
-![photo](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/voicehandler.png)
+<div align="center">
+  <img src="https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/voicehandler.png" alt="Описание изображения" style="width: 100%;">
+</div>
+
 ## Фишинговое приложение VoiceHandler
 Это фишинговое приложение VoiceHandler для [официальной версии](https://github.com/TerreDHermes/VoiceHandler). 
 Алгоритм входа злоумышленника в аккаунт жертвы:
