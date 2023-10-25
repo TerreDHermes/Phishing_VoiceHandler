@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/voicehandler.png" alt="Описание изображения" style="width: 100%;">
+  <img src="https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/voicehandler.png" alt="Описание изображения" style="width: 50%;">
 </div>
 
 ## Фишинговое приложение VoiceHandler
