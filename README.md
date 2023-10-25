@@ -7,7 +7,7 @@
    Ссылка на видео (взлом) - [ссылка.](https://www.youtube.com/watch?v=i3P0gMLD_OA)
 
 <div align="center">
-  <img src="https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/Фишинговое%20приложение%20(online-video-cutter.com)%20(1).gif" alt="Описание изображения" style="width: 50%;">
+  <img src="https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/Фишинговое%20приложение%20(online-video-cutter.com)%20(1).gif" alt="Описание изображения" style="width: 200%;">
 </div>
 
 ![Gif](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/Фишинговое%20приложение%20(online-video-cutter.com)%20(1).gif)
