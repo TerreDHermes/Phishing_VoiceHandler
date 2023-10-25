@@ -1,9 +1,10 @@
-## Фишинговое приложение VoiceHandler
+# Фишинговое приложение VoiceHandler
 
 <div align="center">
   <img src="https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/voicehandler.png" alt="Описание изображения" style="width: 70%;">
 </div>
 
+# Приложение в действии
 Это фишинговое приложение VoiceHandler для [официальной версии](https://github.com/TerreDHermes/VoiceHandler). 
 Алгоритм входа злоумышленника в аккаунт жертвы:
 1. На первом этапе злоумышленник отправляет фишинговое письмо, с ссылкой на автоматическое скачивание поддельного APK. При попытке пользователя войти, вместо отправки данных на сервер Firebase, осуществляется отправка на почту злоумышленника.
